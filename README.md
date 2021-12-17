@@ -13,3 +13,5 @@
 ### EMULADORES
 
 - Reicast Beta 2 (Sega Dreamcast)
+- Mednafen (+5.05)
+- OpenBor (+5.05)
