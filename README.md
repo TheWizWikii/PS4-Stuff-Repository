@@ -1,4 +1,4 @@
-# PS4-Apps / Hombrew Downloader
+# PS4 Apps & Hombrew Repository
 
 - Remote Package Installer (5.05, 6.72, 7.XX, 9.00) [by Flat_z]
 - PS4 Xplorer v1.33 (4.55, 4.74, 5.01, 5.05, 6.72, 7.XX, 9.00) [by Lapy]
