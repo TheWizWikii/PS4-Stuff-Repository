@@ -9,10 +9,13 @@
 - Twitch (5.05, 6.72, 7.XX, 9.00)
 - YouTube (5.05, 6.72, 7.XX, 9.00)
 - Plex (5.05, 6.72, 7.XX, 9.00)
-- Internal Package Installer (5.05, 6.72, 7.XX, 9.00)
+- Internal Package Installer (5.05, 6.72, 7.XX, 9.00) [by 0x199]
+- PS4 Temperature (5.05, 6.72, 7.XX, 9.00) [by Lapy]
 
 ### EMULADORES
 
 - Reicast Beta 2 (Sega Dreamcast)
 - Mednafen (+5.05)
 - OpenBor (+5.05)
+- RetroArch R4 (Unoficial)
+- RetroArch R4 Cores (Unoficial)
