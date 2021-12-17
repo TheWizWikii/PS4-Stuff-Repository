@@ -9,6 +9,7 @@
 - Twitch (5.05, 6.72, 7.XX, 9.00)
 - YouTube (5.05, 6.72, 7.XX, 9.00)
 - Plex (5.05, 6.72, 7.XX, 9.00)
+- Internal Package Installer (5.05, 6.72, 7.XX, 9.00)
 
 ### EMULADORES
 
