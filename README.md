@@ -13,6 +13,7 @@
 - PS4 Temperature (5.05, 6.72, 7.XX, 9.00) [by Lapy]
 - PS4 Media v1.06 (5.05, 6.72, 7.XX, 9.00) [by Lapy]
 - Patch Installer (5.05, 6.72, 7.XX, 9.00) [by 0x199]
+- PS4 App Lock v1.06 (5.05, 6.72, 7.XX, 9.00) [by Lapy]
 
 
 ### EMULADORES
