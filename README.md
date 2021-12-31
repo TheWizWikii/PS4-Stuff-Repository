@@ -30,3 +30,34 @@
 ### SATURN FPKG
 
 - Guardiani Heroes EU
+- Albert Odyssey
+- Alien Trilogy
+- Alone in the Dark
+- Blazing Dragons
+- Crusader No Remorse
+- Dark Legend
+- Dark Savior
+- Dragon Force
+- Dragon Force 2
+- Hexen
+- Legend of Oasis
+- Linkle Liver Story
+- Lunar Silver Star Story
+- Sega Rally Championship
+- Shining Force III Scenario 1
+- Shining Force III Scenario 2
+- Shining Force III Scenario 3
+- Warcraft II
+- Zanma 
+- Chou Ougi Valhollian
+- Astral
+- Darius Gaiden
+- Black Dawn
+- Black Fire
+- Mega Man 8
+- Darklight Conflict
+- Independence Day
+- Lost World Jurassic Park
+- Battle Arena Toshinden Remix
+- Contra Legacy of War
+- Magic Knight Rayearth
