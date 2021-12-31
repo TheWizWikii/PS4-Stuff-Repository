@@ -23,6 +23,8 @@
 - OpenBor (+5.05)
 - RetroArch R4 (Unoficial)
 - RetroArch R4 Cores (Unoficial)
+- Mario64
+- Super Mario 64 Port v2
 
 
 ### SATURN FPKG
