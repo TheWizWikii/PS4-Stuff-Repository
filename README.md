@@ -15,6 +15,9 @@
 - Patch Installer (5.05, 6.72, 7.XX, 9.00) [by 0x199]
 - PS4 App Lock v1.06 (5.05, 6.72, 7.XX, 9.00) [by Lapy]
 - SNESticles (9.00)
+- PNES (Nes emulator) v.5.0
+- PSNES (SNES Emulator) v5.0
+- PFBA (Portable Final Burn Alpha EMU) v5.0
 
 
 ### EMULADORES / PORTS
